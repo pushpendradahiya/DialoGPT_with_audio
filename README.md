@@ -22,5 +22,5 @@ We run below command to install pyaudio\
 
 
 # References:
-https://huggingface.co/microsoft/DialoGPT-medium?text=My+name+is+Mariama%2C+my+favorite
+https://huggingface.co/microsoft/DialoGPT-medium?text=My+name+is+Mariama%2C+my+favorite \
 https://www.instructables.com/id/Speech-Recognition-Using-Google-Speech-API-and-Pyt/
